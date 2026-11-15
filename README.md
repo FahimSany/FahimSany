@@ -32,10 +32,6 @@ I'm open to AI/ML and software engineering projects. If you need an engineer for
 - 📧 Email: [Email-Address](mailto:abdullahalfahisany@gmail.com)
 - 💼 LinkedIn: [Message-me](https://www.linkedin.com/in/abdullah-al-fahim-199a9844b)
 
-## 📊 GitHub Stats
-
-![FahimSany's GitHub stats](https://github-readme-stats.vercel.app/api?username=FahimSany&show_icons=true&theme=default)
-
 ---
 
 ⭐ If you like something I've built, feel free to give it a star!
