@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Abdullah Al Fahim 👋
 
-<!--
-**FahimSany/FahimSany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI / ML / Software Engineer** passionate about building AI-based products.
 
-Here are some ideas to get you started:
+I turn ideas into working software, from research prototypes to products people can actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 What I'm working on
+
+- 🧠 **[RDI](https://github.com/FahimSany/rdi)**: a research buddy for your research, projects and products
+- 🤖 Exploring and building AI-powered tools and applications
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<!-- Add or remove badges at https://shields.io / https://simpleicons.org -->
+
+## 📌 Featured Project
+
+### [RDI: Research Buddy](https://github.com/FahimSany/rdi)
+Research Buddy for your research, projects and products. Built with PHP.
+
+## 🤝 Work With Me
+
+I'm open to AI/ML and software engineering projects. If you need an engineer for your project, get in touch:
+
+- 📧 Email: `your-email@example.com`
+- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+
+## 📊 GitHub Stats
+
+![FahimSany's GitHub stats](https://github-readme-stats.vercel.app/api?username=FahimSany&show_icons=true&theme=default)
+
+---
+
+⭐ If you like something I've built, feel free to give it a star!
