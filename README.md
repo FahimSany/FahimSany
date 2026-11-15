@@ -29,7 +29,7 @@ Research Buddy for your research, projects and products. Built with PHP.
 
 I'm open to AI/ML and software engineering projects. If you need an engineer for your project, get in touch:
 
-- 📧 Email: `your-email@example.com`
+- 📧 Email: `abdullahalfahisany@gmail.com`
 - 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
 
 ## 📊 GitHub Stats
