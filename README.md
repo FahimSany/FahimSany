@@ -29,8 +29,9 @@ Research Buddy for your research, projects and products. Built with PHP.
 
 I'm open to AI/ML and software engineering projects. If you need an engineer for your project, get in touch:
 
-- 📧 Email: [Email-Address](mailto:abdullahalfahisany@gmail.com)
-- 💼 LinkedIn: [Message-me](https://www.linkedin.com/in/abdullah-al-fahim-199a9844b)
+- Email: [Email-Address](mailto:abdullahalfahisany@gmail.com)
+- LinkedIn: [Message-me](https://www.linkedin.com/in/abdullah-al-fahim-199a9844b)
+- Portfolio: [Give-a-visit](https://fahimsany.github.io/FahimSany-Portfolio/)
 
 ---
 
